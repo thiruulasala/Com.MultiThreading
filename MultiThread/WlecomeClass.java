@@ -1,4 +1,6 @@
 package MultiThread;
+
+//It is only for single thread,,not foe multiple thread.
 class Test extends Thread{
     public void run()
     {

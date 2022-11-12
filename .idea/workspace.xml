@@ -32,7 +32,20 @@
     "last_opened_file_path": "C:/Users/thiru/IdeaProjects/Com.MultiThreading"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ByUsingThreadMethod">
+    <configuration name="ByUsingThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThread.ByUsingThreadMethod" />
+      <module name="Com.MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WlecomeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiThread.WlecomeClass" />
       <module name="Com.MultiThreading" />
@@ -48,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ByUsingThreadMethod" />
         <item itemvalue="Application.WlecomeClass" />
       </list>
     </recent_temporary>
